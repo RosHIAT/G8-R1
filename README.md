@@ -2,9 +2,18 @@
 mi primer repo
 
 ## subtitulo
-
+python
 
 ~~~python
+class Github:
+  """
+  Mi primera clase
+  """
+  def  __init__(self):
+   print("Pronto veremos esto a detalle")
+
+~~~python
+
 def.function():
   print("hola mundo")
 ~~~
